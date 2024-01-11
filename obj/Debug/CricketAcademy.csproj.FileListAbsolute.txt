@@ -1,0 +1,7 @@
+C:\Users\epicg\source\repos\CricketAcademy\CricketAcademy\bin\Debug\CricketAcademy.exe.config
+C:\Users\epicg\source\repos\CricketAcademy\CricketAcademy\bin\Debug\CricketAcademy.exe
+C:\Users\epicg\source\repos\CricketAcademy\CricketAcademy\bin\Debug\CricketAcademy.pdb
+C:\Users\epicg\source\repos\CricketAcademy\CricketAcademy\obj\Debug\CricketAcademy.csproj.AssemblyReference.cache
+C:\Users\epicg\source\repos\CricketAcademy\CricketAcademy\obj\Debug\CricketAcademy.csproj.CoreCompileInputs.cache
+C:\Users\epicg\source\repos\CricketAcademy\CricketAcademy\obj\Debug\CricketAcademy.exe
+C:\Users\epicg\source\repos\CricketAcademy\CricketAcademy\obj\Debug\CricketAcademy.pdb
